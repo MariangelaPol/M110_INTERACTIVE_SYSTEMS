@@ -701,3 +701,8 @@ p {
 
 }
 /* End  Media Query For Desktop */
+.horizontal {
+	display: inline-block;
+	margin-right: 20px; /* Adjust the margin as needed */
+  }
+  
